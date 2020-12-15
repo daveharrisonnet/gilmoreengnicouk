@@ -4,3 +4,12 @@ body { background: #000000 !important; color: #000000 !important;}
 * html body { background: #000000 !important; color: #000000 !important;}
 html body { background: #000000 !important; color: #000000 !important;}
 * html body img {display:none !important;}
+
+.bg-primary {
+    background-color: #000000 !important;
+    color: #000000 !important;
+}
+.bg-secondary {
+    background-color: #000000 !important;
+    color: #000000 !important;
+}
