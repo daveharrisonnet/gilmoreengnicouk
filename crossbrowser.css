@@ -1,3 +1,2 @@
- body {background-colour:black;} 
- body {text-colour:black;} 
- body img {display:hidden;} 
+ html,body {background-colour:black;color: black;} 
+ html img, body img {display:none;} 
